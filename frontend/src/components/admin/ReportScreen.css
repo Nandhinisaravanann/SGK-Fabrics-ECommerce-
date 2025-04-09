@@ -1,0 +1,70 @@
+/* ReportScreen.css */
+
+.report-container {
+    padding: 20px;
+    background-color: #f8f9fa;
+    min-height: 100vh;
+    text-align: center;
+}
+
+h2 {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.report-buttons {
+    margin-bottom: 20px;
+}
+
+.report-button {
+    padding: 10px 15px;
+    margin: 5px;
+    font-size: 16px;
+    color: white;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.report-button:hover {
+    background-color: #0056b3;
+}
+
+.loading {
+    font-size: 18px;
+    font-weight: bold;
+    color: #ff9800;
+    margin-top: 10px;
+}
+
+.report-data {
+    background: white;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    display: inline-block;
+    text-align: left;
+    margin-top: 20px;
+}
+
+.report-data h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.report-data p {
+    font-size: 16px;
+    color: #333;
+    margin: 5px 0;
+}
+
+.no-report {
+    font-size: 18px;
+    color: red;
+    font-weight: bold;
+    margin-top: 20px;
+}
