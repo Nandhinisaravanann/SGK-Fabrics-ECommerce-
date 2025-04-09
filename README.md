@@ -1,4 +1,4 @@
-# JVL cart
+# SGK FABRICS
 
 an E-commerce Website built with MERN stack.
 
